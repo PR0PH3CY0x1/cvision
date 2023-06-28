@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 
 def parser():
     parser = ArgumentParser(
-        prog='careye'
+        prog='cvision'
     )
 
     parser.add_argument(
